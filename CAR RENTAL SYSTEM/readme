@@ -1,0 +1,10 @@
+(vehicles.txt) file is the database where the vehicles and their infos are stored
+(u.txt) file is the file which stores all the infos of the user who used the system and what they rent
+(rent.txt) is the file which stores all veh that has been rented
+(forum.txt) is the file which stores all messages or review wrote by the user of the application
+
+to reduce confusion all vehicles that has been rented, their ids are set to 0 so that in the future no one would rent them again
+
+credential for admin:   .username: admin
+                        .passwd: 123
+

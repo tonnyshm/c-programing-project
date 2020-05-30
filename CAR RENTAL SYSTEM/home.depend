@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1576265537 source:c:\users\hp\documents\new folder\c-project\home\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1576265537 source:c:\users\hp\documents\c programming\c-project\home\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
+1576265537 source:c:\users\hp\documents\c programming\c-project\car rental system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
